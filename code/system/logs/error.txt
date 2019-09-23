@@ -1,0 +1,116 @@
+2015-06-17 3:25:49 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/module/featured.php on line 124
+2015-06-17 3:27:07 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/module/featured.php on line 124
+2015-06-17 3:27:46 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/module/featured.php on line 124
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:40:04 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:40:04 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): admin: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): catalog: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): admin/controller: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): admin/language: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): admin/view: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): catalog/controller: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): catalog/model: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): catalog/view: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): admin/controller/module: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): admin/language/english: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): admin/view/template: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): catalog/controller/module: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): catalog/model/module: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): catalog/view/theme: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): admin/language/english/module: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): admin/view/template/module: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): catalog/view/theme/default: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): catalog/view/theme/default/template: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:46:29 - PHP Warning:  ftp_nlist(): Unable to create temporary file.  Check permissions in temporary files directory. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 328
+2015-06-17 3:46:29 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 333
+2015-06-17 3:46:29 - PHP Warning:  ftp_mkdir(): catalog/view/theme/default/template/module: File exists. in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/extension/installer.php on line 338
+2015-06-17 3:57:43 - PHP Notice:  Undefined index: module_id in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/admin/controller/module/anylist.php on line 16
+2015-06-17 3:58:35 - PHP Notice:  Undefined index: anylist_stores in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/catalog/controller/module/anylist.php on line 10
+2015-06-17 3:58:53 - PHP Notice:  Undefined index: anylist_stores in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/catalog/controller/module/anylist.php on line 10
+2015-06-17 3:59:56 - PHP Notice:  Undefined index: anylist_stores in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/catalog/controller/module/anylist.php on line 10
+2015-06-17 4:00:53 - PHP Notice:  Undefined index: anylist_stores in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/catalog/controller/module/anylist.php on line 10
+2015-06-17 4:02:10 - PHP Notice:  Undefined index: anylist_stores in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/catalog/controller/module/anylist.php on line 10
+2015-06-17 4:02:15 - PHP Notice:  Undefined index: anylist_stores in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/catalog/controller/module/anylist.php on line 10
+2015-06-17 4:03:14 - PHP Notice:  Undefined index: anylist_stores in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/catalog/controller/module/anylist.php on line 10
+2015-06-17 4:03:38 - PHP Notice:  Undefined index: anylist_stores in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/catalog/controller/module/anylist.php on line 10
+2015-06-17 4:03:51 - PHP Notice:  Undefined index: anylist_stores in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/catalog/controller/module/anylist.php on line 10
+2015-06-17 4:04:58 - PHP Notice:  Undefined variable: settings in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/catalog/controller/module/anylist.php on line 9
+2015-06-17 4:49:27 - PHP Warning:  array_keys() expects parameter 1 to be array, null given in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/catalog/controller/module/anylist.php on line 271
+2015-06-17 5:02:15 - PHP Warning:  array_keys() expects parameter 1 to be array, boolean given in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/catalog/controller/module/anylist.php on line 271
+2015-06-17 5:02:15 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/catalog/controller/module/anylist.php on line 276
+2015-06-17 5:12:15 - PHP Notice:  Undefined variable: welcome in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/catalog/view/theme/justaddbirds/template/common/home.tpl on line 17
+2015-06-17 5:12:17 - PHP Notice:  Undefined variable: welcome in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/catalog/view/theme/justaddbirds/template/common/home.tpl on line 17
+2015-06-17 5:12:30 - PHP Notice:  Undefined variable: welcome in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/catalog/view/theme/justaddbirds/template/common/home.tpl on line 23
+2015-06-17 5:13:02 - PHP Notice:  Undefined variable: welcome in /Volumes/WORK/mamp_docs/local.justaddbirds.co.uk/catalog/view/theme/justaddbirds/template/common/home.tpl on line 23
